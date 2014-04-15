@@ -5,10 +5,10 @@ Projet processing permettant de récupérer un flux twitter.
 
 
 Le projet repose sur l'exemple fourni à l'adresse suivante :
-http://codasign.com/tutorials/processing-and-twitter-searching-twitter-for-tweets/
+- http://codasign.com/tutorials/processing-and-twitter-searching-twitter-for-tweets/
 
 Il faut également télécharger la librairie (elle est incluse dans cet exemple) :
-http://twitter4j.org/en/index.html
+- http://twitter4j.org/en/index.html
 
 
 
