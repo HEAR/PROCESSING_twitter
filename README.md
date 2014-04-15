@@ -12,7 +12,7 @@ http://twitter4j.org/en/index.html
 
 
 
-## d'autres lies intéressants :
+## d'autres liens intéressants :
 - *** http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter
 - http://codelab.fr/3968#p22381
 - http://codelab.fr/4331
