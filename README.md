@@ -4,6 +4,15 @@ PROCESSING_twitter
 Projet processing permettant de récupérer un flux twitter.
 
 
+Le projet repose sur l'exemple fourni à l'adresse suivante :
+http://codasign.com/tutorials/processing-and-twitter-searching-twitter-for-tweets/
+
+Il faut également télécharger la librairie (elle est incluse dans cet exemple) :
+http://twitter4j.org/en/index.html
+
+
+
+## d'autres lies intéressants :
 - *** http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter
 - http://codelab.fr/3968#p22381
 - http://codelab.fr/4331
