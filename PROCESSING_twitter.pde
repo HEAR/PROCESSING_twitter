@@ -13,6 +13,9 @@
 // créer une nouvelle application (attention à ne pas utiliser « twitter » dans le nom
 // aller dans API Keys
 // Cliquer sur Create my access token
+// dupliquer le fichier param-sample.json, le renommer param.json et ajouter les paramètres de twitter
+
+
 import twitter4j.conf.*;
 import twitter4j.*;
 import twitter4j.auth.*;
